@@ -1,0 +1,6 @@
+{
+  "name": "Student Attendance System",
+  "description": "Smart student attendance system with real-time face recognition, facial vector descriptors, anti-spoofing, attendance logs, and architecture guide.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
